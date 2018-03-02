@@ -1,0 +1,16 @@
+{
+  "database_info": {
+    "postgres": {
+      "dbname": "apiman_gateway",
+      "host": "211.254.220.231",
+      "user": "postgres",
+      "password": "odp.!@#"
+    },
+    "odp": {
+      "dbname": "ckan_default",
+      "host": "211.254.220.231",
+      "user": "odp",
+      "password": "odp.!@#"
+    }
+  }
+}
